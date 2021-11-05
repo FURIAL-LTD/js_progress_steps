@@ -1,3 +1,3 @@
-# JavaScript Project Starter
+# JavaScript Progress Bar
 
-This is just a JavaScript Project Starter that I have created to speed things up when doing small projects.
+Simple feature that incorporates a progress bar with 4 numeric points and two buttons that allow the progress bar to move from point to point.
